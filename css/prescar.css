@@ -1,0 +1,16 @@
+.premier{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.deuxieme{
+    font-size:30px ;
+    text-align: center;
+}
+.troisieme{
+    font-style: oblique;
+    color:rgb(50,60,47);
+    font-size: 40px;
+}
+.quatrieme{
+    font-weight: 300;
+    color:#ff85c7;
+}

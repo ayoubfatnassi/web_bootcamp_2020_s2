@@ -18,7 +18,15 @@ color: brown;
     color:purple;
 
 }
+.test1 , .test2 {
+    text-decoration: underline;
+    background-color: rebeccapurple;
+    border: 1px solid aqua;
+}
 /* adheya lclass ili wesset lclass*/
 .part1{
     font-weight: 100;
+}
+*{
+    opacity: 0.7;
 }
