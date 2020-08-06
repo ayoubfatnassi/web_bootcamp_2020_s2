@@ -1,0 +1,24 @@
+/* les selecteurs*/
+p{
+    color:red;
+    border:10px solid blue;
+}
+#title{
+    color: hotpink;
+}
+#title1{
+font-size: 70px;
+color: brown; 
+}
+.test1{
+    font-size: 40px ; 
+    color: chocolate;
+}
+.test2{
+    color:purple;
+
+}
+/* adheya lclass ili wesset lclass*/
+.part1{
+    font-weight: 100;
+}
